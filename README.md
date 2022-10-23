@@ -42,8 +42,7 @@ Latihan 1
     print("Hello")
     print("Saya sedang belajar pemrograman")
     
-    
-    ![latihan 1](https://user-images.githubusercontent.com/115801823/197402767-93dc709d-38fc-4b87-8ed0-8620dd5d3e5b.PNG)
+![latihan 1](https://user-images.githubusercontent.com/115801823/197402767-93dc709d-38fc-4b87-8ed0-8620dd5d3e5b.PNG)
     
 • Maka di layar kalian akan tampil seperti gambar diatas.
 
