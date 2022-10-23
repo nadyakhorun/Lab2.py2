@@ -29,7 +29,9 @@ Latihan 1
 • Menjalankan Python Console
 
 • Menampilkan tulisan “Hello” dilayar
+
 • Menampilkan tulisan “Saya sedang belajar python” dilayar
+
 • Buka CMD kalian lalu masukan perintah (Python) untuk menghubungkan CMD kalian dengan Python.
 
 ![latihan 1(2)](https://user-images.githubusercontent.com/115801823/197402732-80835cde-1c50-4a21-a164-c2084f6ac152.PNG)
