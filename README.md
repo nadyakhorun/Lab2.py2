@@ -70,8 +70,9 @@ Latihan 3
 
 • Menjalankan IDLE.
 
-• Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
-• Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
+    • Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
+    • Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
+
 • Jika kalian sudah membuka IDLE dan membuat file baru maka akan muncul seperti gambar dibawah ini.
 
 ![latihan 3](https://user-images.githubusercontent.com/115801823/197402862-1319c6f1-43af-4554-83d4-b3ebc34f2640.PNG)
