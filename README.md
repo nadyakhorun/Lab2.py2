@@ -34,12 +34,14 @@ Latihan 1
 
 • Buka CMD kalian lalu masukan perintah (Python) untuk menghubungkan CMD kalian dengan Python.
 
+
 ![latihan 1(2)](https://user-images.githubusercontent.com/115801823/197402732-80835cde-1c50-4a21-a164-c2084f6ac152.PNG)
 
 • Jika tampilan sudah seperti gambar diatas lali masukkan perintan seperti dibawah ini.
 
     print("Hello")
     print("Saya sedang belajar pemrograman")
+    
     
     ![latihan 1](https://user-images.githubusercontent.com/115801823/197402767-93dc709d-38fc-4b87-8ed0-8620dd5d3e5b.PNG)
     
