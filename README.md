@@ -50,17 +50,17 @@ Latihan 2
 
 • Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
 
-• Mendefinisikan variable a dengan nilai 8
-• Mendefinisikan variable b dengan nilai 6
-• Mencetak nilai variable a dan b
-• Mencetak hasil penjumlahan a+b
+    • Mendefinisikan variable a dengan nilai 8
+    • Mendefinisikan variable b dengan nilai 6
+    • Mencetak nilai variable a dan b
+    • Mencetak hasil penjumlahan a+b
 
-Masukkan perintah dibawah ini di CMD yang sudah terhubung dengan Python tadi
-    a=8
-    b=6
-    print("variable a=",a)
-    print("variable b=",b)
-    print("hasil penjumlahan a+b=",a+b)
+    Masukkan perintah dibawah ini di CMD yang sudah terhubung dengan Python tadi
+        a=8
+        b=6
+        print("variable a=",a)
+        print("variable b=",b)
+        print("hasil penjumlahan a+b=",a+b)
 
 ![latihan 2](https://user-images.githubusercontent.com/115801823/197402817-13314ea7-fd07-4e32-aad6-2e5adab25229.PNG)
 
