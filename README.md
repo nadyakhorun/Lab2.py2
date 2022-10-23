@@ -25,6 +25,7 @@ Instalasi Python
 
 
 Latihan 1
+
 • Menjalankan Python Console
 
 • Menampilkan tulisan “Hello” dilayar
@@ -52,11 +53,11 @@ Latihan 2
 • Mencetak hasil penjumlahan a+b
 
 Masukkan perintah dibawah ini di CMD yang sudah terhubung dengan Python tadi
-a=8
-b=6
-print("variable a=",a)
-print("variable b=",b)
-print("hasil penjumlahan a+b=",a+b)
+    a=8
+    b=6
+    print("variable a=",a)
+    print("variable b=",b)
+    print("hasil penjumlahan a+b=",a+b)
 
 ![latihan 2](https://user-images.githubusercontent.com/115801823/197402817-13314ea7-fd07-4e32-aad6-2e5adab25229.PNG)
 
@@ -75,21 +76,21 @@ Latihan 3
 • Setelah itu masukkan printah seperti dibawah.
 
 # input nilai variable
-a=input("Masukan nilai a:")
-b=input("Masukan nilai b:")
+    a=input("Masukan nilai a:")
+    b=input("Masukan nilai b:")
 
 # cetak nilai variabel
-print("Variabel a=",a)
-print("Variabel b=",b)
+    print("Variabel a=",a)
+    print("Variabel b=",b)
 
 # cetak hasil operasi kedua variabel dengan String Format
-print("Hasil penggabuang {1}&{0}=%s".format(a,b)%(a+b))
+    print("Hasil penggabuang {1}&{0}=%s".format(a,b)%(a+b))
 
 # konversi nilai variabel
-a=int(a)
-b=int(b)
-print("Hasil penjumlahan {1}+{0}=%s".format(a,b)%(a+b))
-print("Hasil pembagian {1}/{0}=%s".format(a,b)%(a/b))
+    a=int(a)
+    b=int(b)
+    print("Hasil penjumlahan {1}+{0}=%s".format(a,b)%(a+b))
+    print("Hasil pembagian {1}/{0}=%s".format(a,b)%(a/b))
 
 ![latihan 3(2)](https://user-images.githubusercontent.com/115801823/197402899-e0fdae8a-035e-4173-b0d8-c447916b2141.PNG)
 
